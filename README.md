@@ -6,9 +6,9 @@
 >
 > **Project developed by:**\
 > Martim Silva ([motapinto](https://github.com/motapinto)) \
-> Pedro Moás ([MOAAS](https://github.com/MOAAS)) \ 
-> Henrique Santos ([MOAAS](https://github.com/MOAAS)) \ 
-> José Guerra ([MOAAS](https://github.com/MOAAS)) 
+> Pedro Moás ([MOAAS](https://github.com/MOAAS)) \
+> Henrique Santos ([MOAAS](https://github.com/MOAAS)) \
+> ? ([MOAAS](https://github.com/MOAAS)) 
 >
 > **Any problems?**\
 > Start an Issue please.
