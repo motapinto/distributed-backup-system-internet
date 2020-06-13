@@ -7,8 +7,8 @@
 > **Project developed by:**\
 > Martim Silva ([motapinto](https://github.com/motapinto)) \
 > Pedro Moás ([MOAAS](https://github.com/MOAAS)) \
-> Henrique Santos ([MOAAS](https://github.com/MOAAS)) \
-> Daniel ([MOAAS](https://github.com/MOAAS)) 
+> Henrique Santos 
+> Daniel
 >
 > **Any problems?**\
 > Start an Issue please.
