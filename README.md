@@ -41,17 +41,16 @@ java TestApp <peerID> STATE
 
 When you run a peer, it will create a peers/ folder. 
 Each peer will have its own folder, which it will use to store the backed up files and documents.
-The root structure will go as something like this
-peers/
-|
-|- peer0/
-|  |-- Backup/
-|  |-- Documents/
-|      |-- document.pdf
-|
-|- peer1/
-   |-- Backup/
-   |-- Documents/
+The root structure will go as something like this:
+> peers
+> * peer0
+>   * Backup
+>   * Documents
+>     * document.pdf
+> * peer1
+>   * Backup
+>   * Documents
+
 
 When backing up a file, you need to specify the path from the peer's root folder.
 For instance, to back up peer0's pdf file with a replication degree of 1, you'll need to run
